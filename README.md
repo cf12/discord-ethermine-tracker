@@ -9,4 +9,5 @@ The program uses a few lightweight dependencies to function:
 
 ## Coding Standards
 This project uses the Standard JS coding style.
+
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
