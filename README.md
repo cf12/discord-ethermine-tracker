@@ -8,6 +8,7 @@ The program uses a few lightweight dependencies to function:
 - Request - Sends web requests to Ethermine.org [ https://www.npmjs.com/package/request ]
 
 ## Coding Standards
-This project uses the Standard JS coding style.
+This project uses the Standard JS Coding Style. Most of my Javascript projects are coded with the Standard JS Coding Style.
+You can learn more about the project here: https://standardjs.com/
 
 [![JavaScript Style Guide](https://cdn.rawgit.com/feross/standard/master/badge.svg)](https://github.com/feross/standard)
