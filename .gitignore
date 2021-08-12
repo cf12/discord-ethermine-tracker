@@ -62,3 +62,5 @@ typings/
 
 # Config Files
 config/config.json
+
+db/
